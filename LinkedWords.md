@@ -114,7 +114,7 @@ We have no control over and assume no responsibility for the content, privacy po
 
 Our Service does not address anyone under the age of 18 ("Children").
 
-We do not knowingly collect personally identifiable information from anyone under the age of 18\. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+We do not knowingly collect personally identifiable information from anyone under the age of 18\. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact me. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 ## Changes To This Privacy Policy
 
@@ -124,9 +124,9 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Contact Us
+## Contact Me
 
-If you have any questions about this Privacy Policy, please contact us:
+If you have any questions about this Privacy Policy, please contact me:
 
 *   By email: chapter50000@hotmail.com
 *   By phone number: +923063355690
