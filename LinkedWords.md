@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: September 24, 2018
+Effective date: February 21, 2020
 
 Awais Soomro ("i", "me", or "my") operates the Linked Words mobile application (hereinafter referred to as the "service").
 
