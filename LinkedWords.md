@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: February 21, 2020
+Effective date: September 24, 2018
 
 Awais Soomro ("i", "me", or "my") operates the Linked Words mobile application (hereinafter referred to as the "service").
 
@@ -70,8 +70,8 @@ The service uses the collected data for various purposes:
 Google (Analytics) may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 *   To comply with a legal obligation
-*   To protect and defend the rights or property of Linked Words
-*   To prevent or investigate possible wrongdoing in connection with the service
+*   To protect and defend the rights or property of their services
+*   To prevent or investigate possible wrongdoing in connection with their services
 *   To protect the personal safety of users of the service or the public
 *   To protect against legal liability
 
