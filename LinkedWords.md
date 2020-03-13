@@ -17,7 +17,7 @@ The ad providers collect several different types of information for various purp
 
 #### Personal Data
 
-While using the service, it may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+While using the service, it may ask you to provide the app with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
 *   Email address
 *   Address, State, Province, ZIP/Postal code, City
@@ -84,7 +84,7 @@ While Google strives to use commercially acceptable means to protect your Person
 
 ## Service Providers
 
-I use third party companies and individuals to facilitate the service ("service providers"), to provide the service on my behalf, to perform service-related services or to assist us in analyzing how the service is used.
+I use third party companies and individuals to facilitate the service ("service providers"), to provide the service on my behalf, to perform service-related services or to assist me in analyzing how the service is used.
 
 These third parties may have access to your Personal Data only to perform these tasks on my behalf and are obligated not to disclose or use it for any other purpose.
 
@@ -125,7 +125,7 @@ My service may or may not address anyone under the age of 18 ("Children").
 
 I do not knowingly collect personally identifiable information from anyone under the age of 18.
 
-If you are a parent or guardian and you are aware that your children has provided us with Personal Data, you may contact Google.
+If you are a parent or guardian and you are aware that your children has provided Google with their Personal Data, you may contact Google.
 
 
 ## Changes To This Privacy Policy
