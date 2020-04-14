@@ -9,3 +9,5 @@
 ### [mediaScanner Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/mediaScanner.md)
 
 ### [AddMe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/AddMe.md)
+
+### [InstaGrabber Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/InstaGrabber.md)
