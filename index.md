@@ -6,6 +6,10 @@
 
 ### [Reverisfy & Reverisfy Lite Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/Reverisfy.md)
 
+### [JigSaw Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/JigSaw.md)
+
+### [Tic Tac Toe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/TicTacToe.md)
+
 ### [mediaScanner Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/mediaScanner.md)
 
 ### [AddMe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/AddMe.md)
