@@ -6,6 +6,8 @@
 
 ### [Reverisfy & Reverisfy Lite Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/Reverisfy.md)
 
+### [Hosts Manager Pro & Hosts Manager Lite Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/HostsManager.md)
+
 ### [JigSaw Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/JigSaw.md)
 
 ### [Tic Tac Toe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/TicTacToe.md)
