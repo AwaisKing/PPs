@@ -8,7 +8,13 @@
 
 ### [AddMe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/AddMe.md)
 
-### [Watch 'n' Earn Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/WatchnEarn.md)
+### [UC Stash Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/UCStash.md)
+
+### [mediaScanner Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/mediaScanner.md)
+
+### [JigSaw Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/JigSaw.md)
+
+### [Tic Tac Toe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/TicTacToe.md)
 
 --
 
@@ -16,8 +22,4 @@
 
 ### [Hosts Manager Pro & Hosts Manager Lite Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/HostsManager.md)
 
-### [JigSaw Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/JigSaw.md)
-
-### [Tic Tac Toe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/TicTacToe.md)
-
-### [mediaScanner Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/mediaScanner.md)
+### [Watch 'n' Earn Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/WatchnEarn.md)
