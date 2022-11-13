@@ -1,6 +1,7 @@
 # Privacy Policy
 
 Effective date: March 13, 2020
+Updated date: November 07, 2022
 
 Awais Soomro ("i", "me", or "my") operates the AddMe mobile application (hereinafter referred to as the "service").
 
@@ -19,9 +20,9 @@ The ad providers collect several different types of information for various purp
 
 While using the service, it may ask you to provide the app with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
+*   Name
 *   Email address
-*   Address, State, Province, ZIP/Postal code, City
-*   Cookies and Usage Data
+*   Social accounts
 
 
 #### Usage Data
@@ -54,10 +55,10 @@ Examples of Cookies the service uses:
 
 The service uses the collected data for various purposes:
 
-*   To notify you about changes to my service
 *   To allow you to participate in interactive features of the service when you choose to do so
 *   To provide and maintain the service
 *   To provide customer care and support
+*   To notify you about changes to my service
 *   To provide analysis or valuable information so that the service can be improved
 *   To monitor the usage of the service
 *   To detect, prevent and address technical issues
