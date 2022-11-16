@@ -14,6 +14,8 @@
 
 ### [JigSaw Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/JigSaw.md)
 
+### [Bounce Up Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/BounceUp.md)
+
 ### [Tic Tac Toe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/TicTacToe.md)
 
 --
