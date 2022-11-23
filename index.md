@@ -16,6 +16,8 @@
 
 ### [Bounce Up Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/BounceUp.md)
 
+### [Knife! Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/Knife.md)
+
 ### [Tic Tac Toe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/TicTacToe.md)
 
 --
