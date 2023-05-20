@@ -8,6 +8,8 @@
 
 ### [AddMe Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/AddMe.md)
 
+### [Meme Heaven Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/MemeHeaven.md)
+
 ### [UC Stash Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/UCStash.md)
 
 ### [QuoDB (Unofficial) Privacy Policy](https://github.com/AwaisKing/PPs/blob/master/QuoDB.md)
