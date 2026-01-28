@@ -1,6 +1,7 @@
 # Privacy Policy
 
 Effective date: June 22, 2021
+Update date: January 28, 2026
 
 Awais Soomro ("i", "me", or "my") operates the Hosts Manager (both Pro and Lite) mobile application (hereinafter referred to as the "service").
 
