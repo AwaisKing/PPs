@@ -9,6 +9,23 @@ This page informs you of the apps policies regarding the collection, use, and di
 The ad providers use your data to provide and improve the service. By using the service, you agree to the collection and use of information in accordance with this policy.
 Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in the Terms and Conditions.
 
+## VPN Service
+
+Hosts Manager (both "Lite" and "Pro") may use the Android `VpnService` API to provide local network filtering, ad/tracker blocking on your device.
+
+**Important information about the VPN implementation:**
+
+- **Local only**: All processing (including DNS queries, hosts file application, and traffic filtering) happens **entirely on your device**. No traffic is ever sent to or routed through any remote server owned or operated by me (Awais Soomro / the developer).
+- **No remote VPN servers**: I do not provide, operate, or partner with any external VPN servers, exit nodes, or proxy services.
+- **No logging of traffic**: The service does **not** log, store, or transmit your browsing history, IP addresses, DNS queries, destination domains, or any other network activity to me or any third party.
+- **No collection of personal data via VPN**: When using the VPN feature, I do not collect any personally identifiable information, connection timestamps, bandwidth usage, or device identifiers specifically tied to VPN usage beyond what Android's system APIs require for the `VpnService` to function.
+- **Permissions rationale**: The VPN feature requires the `BIND_VPN_SERVICE` permission (system-level) and displays the standard Android VPN connection warning ("This app can monitor network traffic"). This is required by Android for any app using `VpnService`; it does **not** mean I collect or send your traffic anywhere.
+- **No third-party analytics in VPN mode**: Even if the app uses analytics/ad libraries elsewhere, no analytics events or ad requests are triggered or allowed while the local VPN tunnel is active (if technically feasible in your implementation).
+- **You control the feature**: The VPN service is completely optional, can be disabled if you choose to go with **root** method, and stops automatically when you close the app or revoke VPN permission in Android settings.
+
+*NOTE: Because the VPN operates locally and without any server component, your real IP address, browsing activity, and original DNS requests remain **private and under your control** exactly as they would be without using the feature.*
+
+
 ## Information Collection And Use
 
 The ad providers collect several different types of information for various purposes to provide and improve the service to you.
